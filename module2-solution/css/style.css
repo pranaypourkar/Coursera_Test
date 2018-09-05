@@ -36,8 +36,8 @@
 		width: 30%;
 		text-align: center;
 		float: right;
-    font: 125%
-    font-family: sans-serif;
+                font-size: 2em;
+    	        font-style:italic;  
 
 
 	}
@@ -51,8 +51,8 @@
 		width: 30%;
 		text-align: center;
 		float: right;
-    font: 125%;
-    font-family: sans-serif;
+    		font-size: 2em;
+    	        font-style:italic;	
 	}
 	#sushi {
 
@@ -64,8 +64,9 @@
 		width: 30%;
 		text-align: center;
 		float: right;
-    font-size: : 125%;
-    font-family: sans-serif;
+		font-size: 2em;
+    		font-style:italic;
+    
 	}
 
 
