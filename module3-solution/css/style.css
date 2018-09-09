@@ -1,1 +1,52 @@
 
+#top {
+	background-color: gray;
+	
+	border-radius: 0;
+	margin: 0;
+}
+
+#head_part {
+	font-style: bold;
+	font-size: 175%;
+	color: black;
+	margin-left: 10px;
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+	text-align: center;
+	color: black;
+}
+
+div h2 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width:  100%;
+}
+
+h3 {
+	text-align: center;
+}
+
+#common {
+	margin: 0;
+	background-color: gray;
+	padding: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+
+}
+
+#mid_part1 {
+	margin: 0;
+	height: 150px;
+	padding: 5px;
+}
+
